@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">cn5shop</string>
+    <string name="guide">引导界面</string>
+    <string name="guimain">主界面</string>
+    <string name="frist_click">开始体验</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">首页</string>
+
+</resources>
